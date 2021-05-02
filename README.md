@@ -31,8 +31,6 @@ Backend Setup
 
 ```bash
 $ python3 -m venv env
-$ python3 -m venv env
-$ source env/bin/activate
 $ source env/bin/activate
 $ pip install -r requirements.txt
 $ python manage.py migrate
