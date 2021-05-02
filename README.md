@@ -24,7 +24,7 @@ Checkout [ KristiyanVachev / Question-Generation ](https://github.com/KristiyanV
 
 Clone the repo
 ```bash
-$ git clone https://github.com/aashutoshPanda/Quiz-Generator-from-audio.git
+$ git clone https://github.com/aashutoshPanda/MCQ-Quiz-Generator-from-audio.git
 ```
 
 Backend Setup
