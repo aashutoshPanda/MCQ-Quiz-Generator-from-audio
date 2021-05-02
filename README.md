@@ -3,7 +3,7 @@
 This app generates MCQ questions from a given audio file.
 Audio file specifications : 
 - extension - .wav
-- language - currently it works on English with Indian Accent (eng-IN) which can be changed by setting desired language in this [line](https://github.com/aashutoshPanda/Quiz-Generator-from-audio/blob/main/audioToQuestions/utils.py#L19 "line").
+- language - currently it works on English with Indian Accent (eng-IN) which can be changed by setting desired language [here](https://github.com/aashutoshPanda/Quiz-Generator-from-audio/blob/main/audioToQuestions/utils.py#L19 "line").
 
 
 
