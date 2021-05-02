@@ -37,7 +37,7 @@ $ pip install -r requirements.txt
 $ python manage.py runserver
 ```
 
-## Frontend
+Frontend Setup
 
 ```bash
 $ cd client
