@@ -24,8 +24,7 @@ def audio_to_questions(split_file_list):
                 print('Error in generation',e)
     print("full_text",full_text)    
     question_data = qg.generate(full_text,use_evaluator=True, num_questions=None, answer_style="multiple_choice")
-    print('question conversion over')
-    print(question_data)
+    print('question conversion over')    
     return question_data
             
         
